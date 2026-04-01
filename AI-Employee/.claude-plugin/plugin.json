@@ -1,0 +1,8 @@
+{
+  "name": "bizzed-ai-employee",
+  "version": "1.0.0",
+  "description": "Autonomous AI coworker for Acme Corp. Qualifies leads, books meetings, drafts proposals, manages pipeline.",
+  "author": {
+    "name": "Subash Sunuwar"
+  }
+}

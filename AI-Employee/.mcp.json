@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+      "google-calendar": {
+      "url": "https://gcal.mcp.claude.com/mcp"
+    },
+    "gmail": {
+      "url": "https://gmail.mcp.claude.com/mcp"
+    },
+    "notion": {
+      "url": "https://mcp.notion.com/mcp"
+    }
+  }
+}
+
